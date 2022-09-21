@@ -8,3 +8,5 @@ This project is an analysis of the Grasshopper Users database and gender imbalan
 ### Technologies
 * Python
 * Pandas, jupyter
+### Dataset
+* Grasshopper 3D Users Database
